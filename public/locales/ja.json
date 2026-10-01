@@ -1,0 +1,20 @@
+{
+    "settings": "設定",
+    "language": "言語",
+    "clock": "時計",
+    "start": "開始",
+    "pause": "停上",
+    "resume": "開始",
+    "reset": "リセット",
+      "stopwatch": "ストップウォッチ",
+      "timer": "タイマー",
+      "pomodoro": "ポモドーロ",
+      "focus": "集中",
+      "rest" : "小休憩",
+      "long rest" : "長い休憩",
+      "chime": "chime",
+      "airplane" : "airplane",
+      "bell" : "bell-chime",
+      "gong" : "gong",
+      "wind chime": "wind chime"
+  }

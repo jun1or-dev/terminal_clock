@@ -1,0 +1,21 @@
+{
+    "start": "start",
+    "pause": "pause",
+    "resume": "resume",
+    "reset": "reset",
+    "settings": "settings",
+    "language": "Language",
+    "clock": "Clock",
+    "stopwatch": "Stopwatch",
+    "timer": "timer",
+    "pomodoro": "pomodoro",
+    "focus": "focus",
+    "rest" : "short break",
+    "long rest" : "long break",
+    "chime": "chime",
+    "airplane" : "airplane",
+    "bell" : "bell-chime",
+    "gong" : "gong",
+    "wind chime": "wind chime"
+  }
+  

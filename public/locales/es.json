@@ -1,0 +1,20 @@
+{
+    "start": "empezar",
+    "pause": "parar",
+    "resume": "resumir",
+    "reset": "reinizialisar",
+    "settings": "Ajustes",
+    "language": "Idioma",
+    "clock": "reloj",
+    "stopwatch": "chronometro",
+    "timer": "temporizador",
+    "pomodoro": "pomodoro",
+    "focus": "Enfoque",
+    "rest" : "Descanso corto",
+    "long rest" : "Descanso Largo",
+    "chime": "chime",
+    "airplane" : "airplane",
+    "bell" : "bell-chime",
+    "gong" : "gong",
+    "wind chime": "wind chime"
+  }

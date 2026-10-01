@@ -1,0 +1,20 @@
+{
+  "settings": "설정",
+  "language": "언어",
+  "clock": "시계",
+  "start": "시작",
+  "pause": "일시정지",
+  "resume": "재개",
+  "reset": "초기화",
+    "stopwatch": "스톱워치",
+    "timer": "타이머",
+    "pomodoro": "포모도로",
+    "focus": "집중",
+    "rest" : "짧은 휴식",
+    "long rest" : "긴 휴식",
+    "chime": "chime",
+    "airplane" : "airplane",
+    "bell" : "bell-chime",
+    "gong" : "gong",
+    "wind chime": "wind chime"
+  }

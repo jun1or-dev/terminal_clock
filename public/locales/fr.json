@@ -1,0 +1,21 @@
+{
+  "start": "démarrer",
+  "pause": "pause",
+  "resume": "reprendre",
+  "reset": "réinitialiser",
+    "settings": "paramètres",
+    "language": "langue",
+    "clock": "horloge",
+    "stopwatch": "chronomètre",
+    "timer": "minuteur",
+    "pomodoro": "pomodoro",
+    "focus": "travail",
+    "rest" : "courte pausse",
+    "long rest" : "longue pause",
+    "chime": "sonette",
+    "airplane" : "avion",
+    "bell" : "cloche",
+    "gong" : "gong",
+    "wind chime": "verre"
+  }
+  
