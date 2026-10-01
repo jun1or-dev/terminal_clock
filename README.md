@@ -1,2 +1,2 @@
 # terminal_clock
-Created with CodeSandbox
+clock app with various features.
